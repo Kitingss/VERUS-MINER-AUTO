@@ -25,5 +25,5 @@ Cocok untuk pemula maupun pengguna berpengalaman yang ingin setup cepat, aman, d
 ## 🔧 Instalasi
 1. **Clone repo & masuk folder**
    ```bash
-   git clone https://github.com/username/verus-hellminer-setup.git
-   cd verus-hellminer-setup
+   git clone https://github.com/Kitingss/VERUS-MINER-AUTO.git
+   cd VERUS-MINER-AUTO
